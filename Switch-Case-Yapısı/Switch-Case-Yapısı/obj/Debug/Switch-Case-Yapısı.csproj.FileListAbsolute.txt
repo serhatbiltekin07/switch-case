@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\bin\Debug\Switch-Case-Yapısı.exe.config
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\bin\Debug\Switch-Case-Yapısı.exe
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\bin\Debug\Switch-Case-Yapısı.pdb
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\obj\Debug\Switch-Case-Yapısı.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\obj\Debug\Switch-Case-Yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\obj\Debug\Switch-Case-Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\obj\Debug\Switch-Case-Yapısı.exe
+C:\Users\user\Desktop\projeler\Switch-Case-Yapısı\Switch-Case-Yapısı\obj\Debug\Switch-Case-Yapısı.pdb
